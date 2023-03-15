@@ -1,4 +1,12 @@
+The contacts app I did in Patika.dev's React course
 demo:https://yusufdmrc-react-contacts-app.netlify.app/
+
+useState
+useEffect
+props
+filter method
+map method
+onChange
 
 # Getting Started with Create React App
 
