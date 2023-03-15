@@ -1,4 +1,4 @@
-The contacts app I did in Patika.dev's React course
+Project in the Contacts App section of Patika.dev's React course
 
 demo:https://yusufdmrc-react-contacts-app.netlify.app/
 
