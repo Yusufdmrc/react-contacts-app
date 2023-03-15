@@ -6,16 +6,16 @@ import "./styles.css";
 function Contacts() {
   const [contacts, setContacts] = useState([
     {
-      name: "Mehmet",
-      phoneNumber: "123123",
+      name: "Yusuf",
+      phoneNumber: "05351111111",
     },
     {
-      name: "Ayşe",
-      phoneNumber: "456457",
+      name: "Nisa",
+      phoneNumber: "05352222222",
     },
     {
-      name: "Nazlı",
-      phoneNumber: "98765",
+      name: "Eslem",
+      phoneNumber: "05353333333",
     },
   ]);
 
