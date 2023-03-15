@@ -1,3 +1,14 @@
+Project in the Contacts App section of Patika.dev's React course
+
+demo:https://yusufdmrc-react-contacts-app.netlify.app/
+
+useState
+useEffect
+props
+filter method
+map method
+onChange event
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
