@@ -7,7 +7,7 @@ useEffect
 props
 filter method
 map method
-onChange
+onChange event
 
 # Getting Started with Create React App
 
